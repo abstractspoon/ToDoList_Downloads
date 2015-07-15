@@ -1,2 +1,3 @@
 # ToDoList_Downloads
-Repo for hosting optional ToDoList content (inc spellcheck dictionaries)
+
+Contains optional ToDoList content (inc spellcheck dictionaries and user content)
